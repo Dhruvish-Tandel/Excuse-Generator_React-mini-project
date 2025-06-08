@@ -30,3 +30,6 @@ A quirky and fun React app that helps you come up with hilarious and dramatic ex
 > Coming Soon: [Live Demo](https://drive.google.com/file/d/1u_kw0YXgyaOb_HFOdM-ZlWfmtFK1jGJA/view)
 
 ---
+
+## 🤝 Contributing
+Feel free to fork the project and submit PRs for new excuse ideas, animations, or UI improvements.
